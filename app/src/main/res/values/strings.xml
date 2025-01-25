@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FirstFragment" />
+    <string name="firstfragment">FirstFragment</string>
+    <string name="FirstFragmentragment">FirstFragment</string>
+    <string name="FirstFragment1">FirstFragment</string>
+    <string name="say_hello_framelayout"><![CDATA[say hello/> </FrameLayout>]]></string>
+    <string name="say_hello">say hello</string>
+</resources>
